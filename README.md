@@ -34,7 +34,7 @@ Herramienta OSINT de recolección de datos por IP.
 
 # Examples
 
-### python3 trash-ip.py --ip 187.244.67.247 
+### python3 trash-ip.py --IP 187.244.67.247 
 
 ### python3 trash-ip.py -i 187.244.67.247 
 
