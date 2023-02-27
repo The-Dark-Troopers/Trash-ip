@@ -3,6 +3,7 @@
 lblue="\e94m"
 
 echo -e "${blue}Instalando cosillas jijiji...."
+sleep 2
 
 pip install requests
 pip install json
